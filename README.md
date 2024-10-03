@@ -5,7 +5,9 @@
 <a href="https://github.com/rlkaiser/rlkaiser">
   <img src="https://github-profile-trophy.vercel.app/?username=rlkaiser&theme=darkhub" alt="Trophies">
 </a>
-<img src="https://activity-graph.herokuapp.com/graph?username=rlkaiser&theme=react-dark" alt="GitHub Activity Graph">
+<a href="https://github.com/rlkaiser/rlkaiser">
+  <img src="https://activity-graph.herokuapp.com/graph?username=rlkaiser&theme=react-dark" alt="GitHub Activity Graph">
+</a>
 
 
 
