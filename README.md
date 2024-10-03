@@ -2,8 +2,7 @@
 <a href="https://github.com/rlkaiser/rlkaiser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlkaiser&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
 </a>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlkaiser&layout=compact&theme=dark)
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" alt="Quote">
 
 
 <!--
