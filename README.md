@@ -1,22 +1,55 @@
-### GitHub Stats
-<a href="https://github.com/rlkaiser/rlkaiser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlkaiser&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-</a>
 
+# Hey, I'm Richelle 👋
 
+### Product Designer & Frontend Developer
+**Design-minded. Development-driven. User-focused.**
 
+I'm a Calgary-based designer and developer who loves turning complex problems into intuitive, thoughtful digital experiences.
 
-<!--
-**RLKaiser/RLKaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work lives at the intersection of **UX design, product thinking, and frontend development**. From identifying user friction and mapping flows to designing interfaces and building them in code, I enjoy being involved in the entire product lifecycle.
 
-Here are some ideas to get you started:
+I believe great products should be as functional as they are beautiful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Do
+
+- **Product & UX Design** — User flows, wireframing, prototyping, usability testing, and design systems.
+- **Frontend Development** — Building responsive, accessible interfaces with modern JavaScript frameworks.
+- **Product Thinking** — Translating user needs and business goals into practical solutions.
+- **AI-Assisted Workflows** — Exploring how AI can accelerate design, development, and iteration without sacrificing quality.
+
+### 🛠️ My Toolkit
+
+**Design & Research**
+
+Figma · UX Research · Prototyping · Design Systems · PostHog
+
+**Development**
+
+Vue.js · Nuxt.js · React · TypeScript · JavaScript · Tailwind CSS · SCSS · HTML · CSS
+
+**Workflow**
+
+Git · GitHub · AI-Assisted Development · Responsive Design
+
+### ✨ What I'm Working On
+
+- Designing and developing AI-powered SaaS experiences.
+- Improving onboarding, conversion flows, and complex product interfaces.
+- Exploring more efficient workflows between design and development.
+- Building thoughtful digital experiences through freelance projects.
+
+### 🌐 Explore My Work
+
+**[View My Portfolio](https://richelle-portfolio.vercel.app/)**
+
+A collection of product design, UX, and frontend development projects, including real-world implementations and the thinking behind them.
+
+### 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlkaiser&layout=compact&hide=html&theme=transparent)
+
+### 🤝 Let's Connect
+
+I'm always interested in connecting with other designers, developers, and people passionate about building better digital products.
+
+[Portfolio](https://richelle-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/richelle-kaiser-0a30681a3/)
