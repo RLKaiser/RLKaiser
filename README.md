@@ -25,28 +25,17 @@ Figma · UX Research · Prototyping · Design Systems · PostHog
 
 **Development**
 
-Vue.js · Nuxt.js · React · TypeScript · JavaScript · Tailwind CSS · SCSS · HTML · CSS
+Vue.js · Next.js · React · TypeScript · JavaScript · Tailwind CSS · SCSS · HTML · CSS
 
 **Workflow**
 
 Git · GitHub · AI-Assisted Development · Responsive Design
-
-### ✨ What I'm Working On
-
-- Designing and developing AI-powered SaaS experiences.
-- Improving onboarding, conversion flows, and complex product interfaces.
-- Exploring more efficient workflows between design and development.
-- Building thoughtful digital experiences through freelance projects.
 
 ### 🌐 Explore My Work
 
 **[View My Portfolio](https://richelle-portfolio.vercel.app/)**
 
 A collection of product design, UX, and frontend development projects, including real-world implementations and the thinking behind them.
-
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlkaiser&layout=compact&hide=html&theme=transparent)
 
 ### 🤝 Let's Connect
 
